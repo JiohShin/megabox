@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, viewport-fit=cover"
+    />
+    <title>Megabox Swipe - Game Over</title>
+    <link rel="stylesheet" href="./css/common.css" />
+  </head>
+  <body>
+    <div class="wrap main gameover">
+      <div class="blur"></div>
+      <!-- section -->
+      <section class="gameover_wrap">
+        <div class="title_wrap">
+          <h1><img src="./images/game_over.png" alt="게임종료" /></h1>
+          <div class="new_score_wrap">
+            <img src="./images/confetti.svg" alt="신기록 달성" />
+            <p class="new_score">신기록 달성</p>
+          </div>
+        </div>
+
+        <div class="score_wrap">
+          <div class="get_score_wrap">
+            <p class="score_txt">획득점수 <span>:</span></p>
+            <p class="score_txt get_score">182</p>
+          </div>
+          <div class="best_score_wrap">
+            <p class="score_txt">최고기록 <span>:</span></p>
+            <p class="score_txt best_score">210</p>
+          </div>
+        </div>
+
+        <!-- gameover menu -->
+        <div class="gameover_menu_wrap">
+          <ul class="gameover_menu menu_top">
+            <li>
+              <a href="./rank.html">
+                <img src="./images/rank_gameover.svg" alt="랭킹" />
+                <p>랭킹보기</p>
+              </a>
+            </li>
+            <li>
+              <a href="./index.html">
+                <img src="./images/home_gameover.svg" alt="홈" />
+                <p>메인으로 가기</p>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="gameover_menu menu_bottom">
+            <li>
+              <button class="regame_btn">
+                <img src="./images/regame_gameover.svg" alt="다시하기" />
+                <p>다시하기</p>
+              </button>
+            </li>
+            <li>
+              <button class="regame100_btn">
+                <img
+                  src="./images/re_100_gameover.svg"
+                  alt="100점부터 다시하기"
+                />
+                <p>100점부터<br />시작하기</p>
+              </button>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
