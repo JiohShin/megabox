@@ -1,0 +1,15 @@
+<svg data-name="help btn" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <clipPath id="ecr630xx1a">
+            <path data-name="사각형 69" style="fill:none" d="M0 0h28v28H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="그룹 51">
+        <g data-name="그룹 50" style="clip-path:url(#ecr630xx1a)">
+            <g data-name="그룹 1927">
+                <path data-name="패스 111" d="M1 5.3a4.229 4.229 0 0 1 .459-1.922A4.4 4.4 0 0 1 9.68 4.523 4.3 4.3 0 0 1 7 9.3a2.681 2.681 0 0 0-1.623 2.522v3.62" transform="translate(8.333 3.667)" style="stroke:#beb8d8;stroke-miterlimit:10;stroke-width:4px;fill:none"/>
+                <path data-name="선 3" transform="translate(13.708 21.5)" style="stroke:#beb8d8;stroke-miterlimit:10;stroke-width:4px;fill:none" d="M0 0v2.767"/>
+            </g>
+        </g>
+    </g>
+</svg>

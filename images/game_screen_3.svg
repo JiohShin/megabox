@@ -1,0 +1,24 @@
+<svg data-name="game screen-3" xmlns="http://www.w3.org/2000/svg" width="230" height="160" viewBox="0 0 230 160">
+    <rect data-name="사각형 483" width="230" height="160" rx="8" style="fill:#1b1046"/>
+    <g data-name="game elementary">
+        <g data-name="그룹 1928">
+            <circle data-name="타원 1" cx="6" cy="6" r="6" style="fill:#6da5ee" transform="translate(157.119 82)"/>
+            <g data-name="ball" transform="translate(172.119 66)">
+                <circle data-name="타원 1" cx="6" cy="6" r="6" style="fill:#6da5ee"/>
+            </g>
+        </g>
+        <path data-name="합치기 4" d="M0 7.022h18L9 19.577zm5 0V0h8v7.022z" transform="rotate(-90.97 95.967 -9.49)" style="fill:#fff;opacity:.3"/>
+        <g data-name="그룹 1929">
+            <g data-name="ball" transform="translate(36.119 87)">
+                <circle data-name="타원 1" cx="6" cy="6" r="6" style="fill:#6da5ee"/>
+            </g>
+            <g data-name="green ball" transform="translate(48.119 61)">
+                <circle data-name="타원 17" cx="7.5" cy="7.5" r="7.5" transform="translate(7 7)" style="fill:#82ea87"/>
+                <g data-name="타원 18" style="stroke:#82ea87;stroke-width:3px;fill:none">
+                    <circle cx="14.5" cy="14.5" r="14.5" style="stroke:none"/>
+                    <circle cx="14.5" cy="14.5" r="13" style="fill:none"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

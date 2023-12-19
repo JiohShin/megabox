@@ -1,0 +1,123 @@
+<svg data-name="그룹 1984" xmlns="http://www.w3.org/2000/svg" width="360" height="760" viewBox="0 0 360 760">
+    <defs>
+        <radialGradient id="fng35l2qza" cx=".625" cy="0" r=".59" gradientTransform="matrix(-.028 1 -2.215 -.061 .642 -.625)" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#2a1d60"/>
+            <stop offset="1" stop-color="#2a009a" stop-opacity="0"/>
+        </radialGradient>
+        <clipPath id="qcyq26qhfb">
+            <path data-name="사각형 61" style="fill:#beb8d8" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <path data-name="사각형 59" style="fill:url(#fng35l2qza)" d="M0 0h360v760H0z"/>
+    <path data-name="사각형 391" style="fill:#1b1046" d="M0 0h360v760H0z"/>
+    <g data-name="game elementary">
+        <g data-name="bg">
+            <g data-name="dev line">
+                <path data-name="사각형 6" transform="translate(0 544)" style="fill:#fff" d="M0 0h360v5H0z"/>
+                <path data-name="패스 1298" d="M0 0h360v5H0z" transform="translate(0 169)" style="fill:#fff"/>
+            </g>
+        </g>
+        <g data-name="8">
+            <path data-name="사각형 14" transform="translate(6 217)" style="fill:#eb5258" d="M0 0h55v39H0z"/>
+            <text data-name="8" transform="translate(39 242)" style="font-size:20px;font-family:GodoB,Godo;fill:#f5f5f5"><tspan x="-11.4" y="0">8</tspan></text>
+        </g>
+        <g data-name="8">
+            <path data-name="8" transform="translate(180 217)" style="fill:#eb5258" d="M0 0h55v39H0z"/>
+            <text data-name="8" transform="translate(213 242)" style="font-size:20px;font-family:GodoB,Godo;fill:#f5f5f5"><tspan x="-11.4" y="0">8</tspan></text>
+        </g>
+        <g data-name="8">
+            <path data-name="8" transform="translate(238 217)" style="fill:#eb5258" d="M0 0h55v39H0z"/>
+            <text data-name="8" transform="translate(271 242)" style="font-size:20px;font-family:GodoB,Godo;fill:#f5f5f5"><tspan x="-11.4" y="0">8</tspan></text>
+        </g>
+        <g data-name="7">
+            <path data-name="7" transform="translate(238 258)" style="fill:#eb5b58" d="M0 0h55v39H0z"/>
+            <text data-name="7" transform="translate(271 283)" style="font-size:20px;font-family:GodoB,Godo;fill:#f5f5f5"><tspan x="-11.4" y="0">7</tspan></text>
+        </g>
+        <g data-name="6">
+            <path data-name="6" transform="translate(6 299)" style="fill:#ec655b" d="M0 0h55v39H0z"/>
+            <text data-name="6" transform="translate(39 324)" style="font-size:20px;font-family:GodoB,Godo;fill:#f5f5f5"><tspan x="-11.4" y="0">6</tspan></text>
+        </g>
+        <g data-name="5">
+            <path data-name="5" transform="translate(238 340)" style="fill:#ed7260" d="M0 0h55v39H0z"/>
+            <text data-name="5" transform="translate(272 366)" style="font-size:20px;font-family:GodoB,Godo;fill:#f5f5f5"><tspan x="-11.4" y="0">5</tspan></text>
+        </g>
+        <g data-name="5">
+            <path data-name="5" transform="translate(6 340)" style="fill:#ed7260" d="M0 0h55v39H0z"/>
+            <text data-name="5" transform="translate(39 365)" style="font-size:20px;font-family:GodoB,Godo;fill:#f5f5f5"><tspan x="-11.4" y="0">5</tspan></text>
+        </g>
+        <g data-name="4">
+            <path data-name="4" transform="translate(64 381)" style="fill:#ee7f66" d="M0 0h55v39H0z"/>
+            <text data-name="4" transform="translate(97 406)" style="font-size:20px;font-family:GodoB,Godo;fill:#f5f5f5"><tspan x="-11.4" y="0">4</tspan></text>
+        </g>
+        <g data-name="3">
+            <path data-name="3" transform="translate(238 423)" style="fill:#ea8a6b" d="M0 0h55v39H0z"/>
+            <text data-name="3" transform="translate(271 448)" style="font-size:20px;font-family:GodoB,Godo;fill:#f5f5f5"><tspan x="-11.4" y="0">3</tspan></text>
+        </g>
+        <g data-name="3">
+            <path data-name="3" transform="translate(296 423)" style="fill:#ea8a6b" d="M0 0h55v39H0z"/>
+            <text data-name="3" transform="translate(329 448)" style="font-size:20px;font-family:GodoB,Godo;fill:#f5f5f5"><tspan x="-11.4" y="0">3</tspan></text>
+        </g>
+        <g transform="translate(0 26)">
+            <circle data-name="타원 1" cx="7.5" cy="7.5" r="7.5" transform="translate(154 503)" style="fill:#6da5ee"/>
+            <text transform="translate(172 547)" style="fill:#6da5ee;font-size:20px;font-family:GodoB,Godo"><tspan x="-22.8" y="0">x6</tspan></text>
+        </g>
+        <g data-name="green ball" transform="translate(193 428)">
+            <circle data-name="타원 17" cx="7.5" cy="7.5" r="7.5" transform="translate(7 7)" style="fill:#82ea87"/>
+            <g data-name="타원 18" style="stroke:#82ea87;stroke-width:3px;fill:none">
+                <circle cx="14.5" cy="14.5" r="14.5" style="stroke:none"/>
+                <circle cx="14.5" cy="14.5" r="13" style="fill:none"/>
+            </g>
+        </g>
+        <g data-name="green ball" transform="translate(309 263)">
+            <circle data-name="타원 17" cx="7.5" cy="7.5" r="7.5" transform="translate(7 7)" style="fill:#82ea87"/>
+            <g data-name="타원 18" style="stroke:#82ea87;stroke-width:3px;fill:none">
+                <circle cx="14.5" cy="14.5" r="14.5" style="stroke:none"/>
+                <circle cx="14.5" cy="14.5" r="13" style="fill:none"/>
+            </g>
+        </g>
+        <g data-name="green ball" transform="translate(309 222)">
+            <circle data-name="타원 17" cx="7.5" cy="7.5" r="7.5" transform="translate(7 7)" style="fill:#82ea87"/>
+            <g data-name="타원 18" style="stroke:#82ea87;stroke-width:3px;fill:none">
+                <circle cx="14.5" cy="14.5" r="14.5" style="stroke:none"/>
+                <circle cx="14.5" cy="14.5" r="13" style="fill:none"/>
+            </g>
+        </g>
+    </g>
+    <g data-name="head ui">
+        <g data-name="score">
+            <g data-name="score">
+                <text data-name=": 57" transform="translate(204 117)" style="font-weight:700;font-family:Roboto-Bold,Roboto;font-size:24px;fill:#fff"><tspan x="0" y="0" xml:space="preserve"> : 57</tspan></text>
+                <text transform="translate(117 117)" style="font-family:NotoSansKR-Bold,Noto Sans KR;letter-spacing:-.025em;font-weight:700;font-size:24px;fill:#fff"><tspan x="0" y="0">현재점수</tspan></text>
+            </g>
+            <text data-name=": 182" transform="translate(204 82)" style="font-weight:700;font-family:Roboto-Bold,Roboto;font-size:24px;fill:#fff"><tspan x="0" y="0" xml:space="preserve"> : 182</tspan></text>
+            <text transform="translate(117 82)" style="font-family:NotoSansKR-Bold,Noto Sans KR;letter-spacing:-.025em;font-weight:700;font-size:24px;fill:#fff"><tspan x="0" y="0">최고점수</tspan></text>
+        </g>
+        <g data-name="setting / rank">
+            <g data-name="rank icn">
+                <path data-name="사각형 67" style="fill:transparent" d="M0 0h24v24H0z" transform="translate(320 95)"/>
+                <g data-name="그룹 49">
+                    <path data-name="제외 2" d="M-490 1465h-10v-2h4v-3.083a5.98 5.98 0 0 1-4.2-2.92 4.977 4.977 0 0 1-3.4-1.529A4.975 4.975 0 0 1-505 1452v-3h4v-2h12v2h4v3a4.975 4.975 0 0 1-1.4 3.468 4.975 4.975 0 0 1-3.4 1.529 5.984 5.984 0 0 1-4.2 2.92V1463h4v2zm-5-9.94 2.163.939-.181-2.453 1.517-1.873-2.275-.577L-495 1449l-1.225 2.1-2.275.577 1.518 1.873-.181 2.453 2.162-.939zm-8-4.061v1a3.006 3.006 0 0 0 2 2.829V1451zm14 0v3.829a3.006 3.006 0 0 0 2-2.829v-1z" transform="translate(827 -1349)" style="fill:#ffc400"/>
+                </g>
+            </g>
+            <g data-name="setting icon">
+                <g data-name="그룹 47" transform="translate(320 59)" style="clip-path:url(#qcyq26qhfb)">
+                    <path data-name="패스 110" d="M17.875 9.721a7.958 7.958 0 0 0-.047-.858l1.615-1.97-2.209-3.774-2.361.367a8.169 8.169 0 0 0-1.852-1.122L12.1 0H7.683l-.858 2.2a8.169 8.169 0 0 0-1.91 1.023l-2.537-.395L.17 6.6l1.5 1.834a7.905 7.905 0 0 0-.058 2.144L0 12.55l2.208 3.774 2.361-.367a8.169 8.169 0 0 0 1.852 1.122l.922 2.365h4.417l.858-2.2a8.169 8.169 0 0 0 1.91-1.023l2.537.395 2.208-3.774-1.5-1.834a7.977 7.977 0 0 0 .1-1.285m-4.756 0a3.4 3.4 0 1 1-3.4-3.352 3.375 3.375 0 0 1 3.4 3.352" transform="translate(2 2)" style="fill:#beb8d8"/>
+                </g>
+            </g>
+        </g>
+        <g data-name="그룹 115">
+            <g data-name="Speed btn">
+                <g data-name="사각형 392" style="stroke:#7b48e2;stroke-width:2px;fill:none" transform="translate(16 58)">
+                    <rect width="52" height="26" rx="8" style="stroke:none"/>
+                    <rect x="1" y="1" width="50" height="24" rx="7" style="fill:none"/>
+                </g>
+                <text transform="translate(42 75)" style="font-size:12px;font-weight:700;font-family:Roboto-Bold,Roboto;fill:#fff"><tspan x="-18.208" y="0">SPEED</tspan></text>
+            </g>
+            <g data-name="Power btn" transform="translate(16 94)">
+                <rect data-name="사각형 392" width="83" height="26" rx="8" style="fill:#7b48e2"/>
+                <text transform="translate(8 17)" style="font-size:12px;font-weight:700;font-family:Roboto-Bold,Roboto;fill:#fff"><tspan x="0" y="0">POWER</tspan></text>
+                <text data-name="100" transform="translate(54 17)" style="font-size:12px;font-weight:700;font-family:Roboto-Bold,Roboto;fill:#fff"><tspan x="0" y="0">100</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>

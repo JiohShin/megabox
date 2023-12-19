@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="4at3qv3e0a">
+            <path data-name="사각형 510" style="fill:none" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="point icn" style="opacity:.998">
+        <g data-name="그룹 1937">
+            <g data-name="그룹 1931">
+                <g data-name="그룹 1930" style="clip-path:url(#4at3qv3e0a)">
+                    <g data-name="그룹 1938">
+                        <path data-name="패스 1431" d="M11 4.778A6.222 6.222 0 1 1 4.778 11 6.229 6.229 0 0 1 11 4.778M11 3a8 8 0 1 0 8 8 8 8 0 0 0-8-8" transform="translate(1 1)" style="fill:#aaa"/>
+                        <path data-name="패스 1432" d="M14 12a2 2 0 1 1-2-2 2 2 0 0 1 2 2" style="fill:#ac1c14"/>
+                        <path data-name="선 16" transform="translate(12 2)" style="stroke:#999;stroke-miterlimit:10;stroke-width:2px;fill:none" d="M0 0v6"/>
+                        <path data-name="선 17" transform="translate(12 16)" style="stroke:#999;stroke-miterlimit:10;stroke-width:2px;fill:none" d="M0 0v6"/>
+                        <path data-name="선 18" transform="translate(2 12)" style="stroke:#999;stroke-miterlimit:10;stroke-width:2px;fill:none" d="M6 0H0"/>
+                        <path data-name="선 19" transform="translate(16 12)" style="stroke:#999;stroke-miterlimit:10;stroke-width:2px;fill:none" d="M6 0H0"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

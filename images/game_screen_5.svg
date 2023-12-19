@@ -1,0 +1,17 @@
+<svg data-name="game screen-5" xmlns="http://www.w3.org/2000/svg" width="230" height="160" viewBox="0 0 230 160">
+    <rect data-name="사각형 483" width="230" height="160" rx="8" style="fill:#1b1046"/>
+    <g data-name="new record">
+        <text data-name="신기록 달성" transform="translate(116.16 88.944)" style="fill:#ffc529;font-size:24px;font-family:NotoSansKR-Bold,Noto Sans KR;font-weight:700;letter-spacing:-.025em"><tspan x="-56.424" y="0">신기록 달성</tspan></text>
+        <path data-name="선 10" d="m1.3 7.519-2.6-3.038 7-6 2.6 3.038z" transform="translate(191.989 118.338)" style="fill:#ff2ebf"/>
+        <path data-name="선 14" d="m7.106 5.789-8-4L.894-1.789l8 4z" transform="translate(53.537 37.585)" style="fill:#ff2ebf"/>
+        <path data-name="선 21" transform="translate(128.029 134.129)" style="stroke:#ff2ebf;fill:none;stroke-width:4px" d="m0 0 6.499 6.152"/>
+        <path data-name="선 11" d="m4.481 8.3-6-7 3.038-2.6 6 7z" transform="translate(28.519 86.606)" style="fill:#ffc400"/>
+        <path data-name="선 12" d="m1.06 6.7-2.12-3.4 8-5 2.12 3.4z" transform="translate(194.416 75.273)" style="fill:#00a7ff"/>
+        <path data-name="선 15" d="m.971 6.748-1.943-3.5 9-5 1.943 3.5z" transform="translate(34.537 42.677)" style="fill:#5eed6f"/>
+        <path data-name="선 13" d="m8.188 5.828-9-4L.812-1.828l9 4z" transform="translate(171.535 108.747)" style="fill:#f9c41d"/>
+        <path data-name="선 25" transform="translate(75.916 20)" style="stroke:#00a7ff;fill:none;stroke-width:4px" d="M5.499 5.909 0 0"/>
+        <path data-name="선 23" transform="translate(46.401 123.795)" style="stroke:#00a7ff;fill:none;stroke-width:4px" d="M7.03 0 0 4.394"/>
+        <path data-name="선 24" transform="translate(148.334 44.925)" style="stroke:#5eed6f;fill:none;stroke-width:4px" d="M7 4.5 0 0"/>
+        <path data-name="선 22" transform="translate(188.775 21.409)" style="stroke:#f9c41d;fill:none;stroke-width:4px" d="M6.499 0 0 6.5"/>
+    </g>
+</svg>

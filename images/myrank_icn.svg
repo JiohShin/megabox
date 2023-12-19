@@ -1,0 +1,6 @@
+<svg data-name="rank icn" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <path data-name="사각형 67" style="fill:transparent" d="M0 0h24v24H0z"/>
+    <g data-name="그룹 49">
+        <path data-name="제외 2" d="M15 18H5v-2h4v-3.083A5.979 5.979 0 0 1 4.8 10 5.007 5.007 0 0 1 0 5V2h4V0h12v2h4v3a5.006 5.006 0 0 1-4.8 5 5.983 5.983 0 0 1-4.2 2.92V16h4v2zm-5-9.939L12.163 9l-.181-2.453L13.5 4.674 11.225 4.1 10 2 8.775 4.1 6.5 4.674l1.518 1.873L7.837 9 10 8.061zM16 4v3.828A3.006 3.006 0 0 0 18 5V4zM2 4v1a3.006 3.006 0 0 0 2 2.828V4z" style="fill:#ffc400" transform="translate(2 3)"/>
+    </g>
+</svg>

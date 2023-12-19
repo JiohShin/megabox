@@ -1,0 +1,11 @@
+<svg data-name="close X btn" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+    <g data-name="question mark icn">
+        <g data-name="close X">
+            <path data-name="사각형 3" style="opacity:.1;fill:none" d="M0 0h28v28H0z"/>
+            <g data-name="그룹 1239">
+                <path data-name="패스 1189" d="M0 0v22.627" transform="rotate(-45 10.243 -4.243)" style="stroke:#fa4b4b;stroke-width:3px;fill:none"/>
+                <path data-name="패스 1190" d="M0 0v22.627" transform="rotate(-135 7.556 9.757)" style="stroke:#fa4b4b;stroke-width:3px;fill:none"/>
+            </g>
+        </g>
+    </g>
+</svg>

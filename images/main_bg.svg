@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="760" viewBox="0 0 360 760">
+    <defs>
+        <radialGradient id="j28dfumiba" cx=".625" cy="0" r=".689" gradientTransform="matrix(-.988 .156 -.085 -.542 1.242 -.097)" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#2a1d60"/>
+            <stop offset="1" stop-color="#220867" stop-opacity="0"/>
+        </radialGradient>
+        <clipPath id="2tqqj2jagb">
+            <path data-name="사각형 72" transform="translate(40 20)" style="fill:#fff;stroke:#707070" d="M0 0h360v760H0z"/>
+        </clipPath>
+    </defs>
+    <path data-name="사각형 59" style="fill:url(#j28dfumiba)" d="M0 0h360v760H0z"/>
+    <path data-name="사각형 391" style="fill:#1b1046" d="M0 0h360v760H0z"/>
+    <g data-name="block bg" style="opacity:.12">
+        <g data-name="마스크 그룹 7" style="clip-path:url(#2tqqj2jagb)" transform="translate(-40 -20)">
+            <path data-name="패스 1294" d="m-1584 7149.164 468.824-104.9-29.064-8.9s21.515 6.59-2.43-.744l-93.35-28.593 124.845-31.289-227.735-62.638" transform="rotate(-30 -13132.357 722.05)" style="stroke-width:12px;stroke-dasharray:0 18;stroke:#399eff;stroke-linecap:round;fill:none"/>
+            <path data-name="패스 1295" d="m-1580.939 7153.762 460.713-110.057-117.4-36.4 116.073-33.25-211.648-60.38" transform="rotate(-30 -13133.652 720.396)" style="opacity:.5;stroke-linejoin:round;stroke-width:11px;stroke:#399eff;stroke-linecap:round;fill:none"/>
+            <g data-name="green ball" transform="rotate(-30 283.336 -326.642)" style="opacity:.5">
+                <g data-name="타원 54" transform="translate(.478 .39)" style="stroke:#54ec79;stroke-width:3px;fill:none">
+                    <circle cx="15" cy="15" r="15" style="stroke:none"/>
+                    <circle cx="15" cy="15" r="13.5" style="fill:none"/>
+                </g>
+                <circle data-name="타원 55" cx="7" cy="7" r="7" transform="translate(8.612 8.89)" style="fill:#54ec79"/>
+            </g>
+            <g data-name="block bx" style="opacity:.5">
+                <path data-name="사각형 382" transform="rotate(-30 395.36 117.385)" style="fill:#ff4151" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 338.86 -93.476)" style="fill:#ff4151" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 383.136 -219.34)" style="fill:#ff7984" d="M0 0h54v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 440.136 -6.612)" style="fill:#ff7984" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 152.768 70.388)" style="fill:#ff4151" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 223.677 51.388)" style="fill:#ff4151" d="M0 0h55v36H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 296.452 31.888)" style="fill:#ff7984" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 124.268 -35.977)" style="fill:#ff4151" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 195.177 -54.977)" style="fill:#ff4151" d="M0 0h55v36H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 95.768 -142.34)" style="fill:#ff4151" d="M0 0h54v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 166.677 -161.34)" style="fill:#ff4151" d="M0 0h54v36H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 239.452 -180.84)" style="fill:#ffb3b9" d="M0 0h54v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 67.768 -246.838)" style="fill:#ff7984" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 211.452 -285.338)" style="fill:#ffb3b9" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 39.268 -353.2)" style="fill:#ff4151" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 253.86 -410.7)" style="fill:#ffb3b9" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 355.136 -323.838)" style="fill:#ffb3b9" d="M0 0h55v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 51.035 -17.431)" style="fill:#ff7984" d="M0 0h54v37H0z"/>
+                <path data-name="사각형 382" transform="rotate(-30 23.034 -121.928)" style="fill:#ffb3b9" d="M0 0h55v37H0z"/>
+            </g>
+        </g>
+    </g>
+</svg>

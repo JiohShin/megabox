@@ -1,0 +1,77 @@
+<svg data-name="game screen-4" xmlns="http://www.w3.org/2000/svg" width="230" height="160" viewBox="0 0 230 160">
+    <path data-name="패스 1434" d="M8 0h214a8 8 0 0 1 8 8v144a8 8 0 0 1-8 8H8a8 8 0 0 1-8-8V8a8 8 0 0 1 8-8z" style="fill:#1b1046"/>
+    <g data-name="game elementary">
+        <g data-name="그룹 1905">
+            <g data-name="8">
+                <path data-name="사각형 14" transform="translate(82 13.586)" style="fill:#eb5258" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="5" transform="translate(101 28.586)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-6.27" y="0">5</tspan></text>
+            </g>
+            <g data-name="8">
+                <path data-name="사각형 14" transform="translate(116 13.586)" style="fill:#eb5258" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="5" transform="translate(135 28.586)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-6.27" y="0">5</tspan></text>
+            </g>
+            <g data-name="8">
+                <path data-name="8" transform="translate(148.999 13.586)" style="fill:#eb5258" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="5" transform="translate(168 28.586)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-6.27" y="0">5</tspan></text>
+            </g>
+            <g data-name="8">
+                <path data-name="8" transform="translate(183 37.587)" style="fill:#ea5b5c" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="4" transform="translate(199 52.587)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-3.135" y="0">4</tspan></text>
+            </g>
+            <g data-name="8">
+                <path data-name="8" transform="translate(183 62.586)" style="fill:#e87266" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="3" transform="translate(199 77.586)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-3.135" y="0">3</tspan></text>
+            </g>
+            <g data-name="8">
+                <path data-name="8" transform="translate(116 62.586)" style="fill:#e87266" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="3" transform="translate(132 77.586)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-3.135" y="0">3</tspan></text>
+            </g>
+            <g data-name="8">
+                <path data-name="8" transform="translate(116 112.586)" style="fill:#ea8a6b" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="1" transform="translate(132 127.586)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-2.42" y="0">1</tspan></text>
+            </g>
+            <g data-name="3">
+                <path data-name="3" d="M0 0h31.823v23.222H0z" transform="translate(82 62.586)" style="fill:#e87266"/>
+                <text data-name="3" transform="translate(97.999 77.586)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-3.135" y="0">3</tspan></text>
+            </g>
+            <g data-name="3">
+                <path data-name="3" transform="translate(49 38.587)" style="fill:#ea5b5c" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="4" transform="translate(65 53.587)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-3.135" y="0">4</tspan></text>
+            </g>
+            <g data-name="3">
+                <path data-name="3" transform="translate(49 87.587)" style="fill:#e78970" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="2" transform="translate(65 102.587)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-3.135" y="0">2</tspan></text>
+            </g>
+            <g data-name="3">
+                <path data-name="3" transform="translate(82 87.587)" style="fill:#e78970" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="2" transform="translate(97.999 102.587)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-3.135" y="0">2</tspan></text>
+            </g>
+            <g data-name="3">
+                <path data-name="3" transform="translate(15 38.587)" style="fill:#ea5b5c" d="M0 0h31.823v23.222H0z"/>
+                <text data-name="4" transform="translate(30.999 53.587)" style="fill:#f5f5f5;font-size:11px;font-family:GodoB,Godo"><tspan x="-3.135" y="0">4</tspan></text>
+            </g>
+            <g data-name="green ball" transform="translate(23.83 17.374)">
+                <circle data-name="타원 17" cx="3.87" cy="3.87" r="3.87" transform="translate(4.3 4.3)" style="fill:#82ea87"/>
+                <g data-name="타원 18" style="stroke:#82ea87;stroke-width:2px;fill:none">
+                    <circle cx="8.171" cy="8.171" r="8.171" style="stroke:none"/>
+                    <circle cx="8.171" cy="8.171" r="7.171" style="fill:none"/>
+                </g>
+            </g>
+            <g data-name="green ball" transform="translate(157.144 40.597)">
+                <circle data-name="타원 17" cx="3.87" cy="3.87" r="3.87" transform="translate(4.3 4.3)" style="fill:#82ea87"/>
+                <g data-name="타원 18" style="stroke:#82ea87;stroke-width:2px;fill:none">
+                    <circle cx="8.171" cy="8.171" r="8.171" style="stroke:none"/>
+                    <circle cx="8.171" cy="8.171" r="7.171" style="fill:none"/>
+                </g>
+            </g>
+            <g data-name="green ball" transform="translate(123.6 91.342)">
+                <circle data-name="타원 17" cx="3.87" cy="3.87" r="3.87" transform="translate(4.3 4.3)" style="fill:#82ea87"/>
+                <g data-name="타원 18" style="stroke:#82ea87;stroke-width:2px;fill:none">
+                    <circle cx="8.171" cy="8.171" r="8.171" style="stroke:none"/>
+                    <circle cx="8.171" cy="8.171" r="7.171" style="fill:none"/>
+                </g>
+            </g>
+        </g>
+        <path data-name="사각형 509" transform="translate(0 148)" style="fill:#fff" d="M0 0h230v2H0z"/>
+    </g>
+</svg>

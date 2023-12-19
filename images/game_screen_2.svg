@@ -1,0 +1,63 @@
+<svg data-name="game screen-2" xmlns="http://www.w3.org/2000/svg" width="230" height="160" viewBox="0 0 230 160">
+    <rect data-name="사각형 483" width="230" height="160" rx="8" style="fill:#1b1046"/>
+    <g data-name="그룹 1977">
+        <g data-name="game element">
+            <g transform="translate(51.835 60.297)">
+                <circle data-name="타원 1" cx="4.626" cy="4.626" r="4.626" transform="translate(9.686)" style="fill:#6da5ee"/>
+                <path data-name="패스 1429" d="M2.124 0C1.542.928 0 3.206 0 3.206l3.771-.583-1.2 6.326 5.063-4.157 1.245 3.435 1.951-2.788" transform="rotate(28 -1.684 9.377)" style="fill:none;stroke:#eeda6d;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/>
+            </g>
+            <g data-name="그룹 1905">
+                <g data-name="8">
+                    <path data-name="사각형 14" transform="translate(44.866 29.763)" style="fill:#eb5258" d="M0 0h42.562v30.534H0z"/>
+                    <text data-name="2" transform="translate(65.446 47.165)" style="font-size:12px;fill:#f5f5f5;font-family:GodoB,Godo"><tspan x="-3.42" y="0">2</tspan></text>
+                </g>
+                <g data-name="3">
+                    <path data-name="3" transform="translate(142.944 29.763)" style="fill:#ea8a6b" d="M0 0h42.562v30.534H0z"/>
+                    <text data-name="1" transform="translate(166.524 48.165)" style="font-size:13px;fill:#f5f5f5;font-family:GodoB,Godo"><tspan x="-5.72" y="0">1</tspan></text>
+                </g>
+            </g>
+            <path data-name="합치기 4" d="M0 6.5h16.655L8.327 18.114zm4.627 0V0h7.4v6.5z" transform="rotate(-90.97 79.276 -25.653)" style="fill:#fff;opacity:.3"/>
+        </g>
+        <g data-name="game element">
+            <g data-name="ball" transform="translate(51.835 120.439)">
+                <circle data-name="타원 1" cx="4.626" cy="4.626" r="4.626" transform="translate(9.686)" style="fill:#6da5ee"/>
+                <path data-name="패스 1430" d="M2.124 0C1.542.928 0 3.206 0 3.206l3.771-.583-1.2 6.326 5.063-4.157 1.245 3.435 1.951-2.788" transform="rotate(28 -3.54 9.84)" style="fill:none;stroke:#eeda6d;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/>
+            </g>
+            <g data-name="그룹 1905">
+                <g data-name="block">
+                    <g data-name="8">
+                        <path data-name="사각형 14" style="fill:#ea8a6b" d="M0 0h42.562v30.534H0z" transform="translate(44.866 89.906)"/>
+                        <text data-name="1" transform="translate(68.446 108.308)" style="font-size:13px;fill:#f5f5f5;font-family:GodoB,Godo"><tspan x="-5.72" y="0">1</tspan></text>
+                    </g>
+                    <g data-name="3">
+                        <path data-name="3" transform="translate(138.318 89.906)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(138.318 99.158)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(138.318 108.411)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(138.318 117.664)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(147.571 88.98)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(147.571 98.233)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(147.571 107.486)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(147.571 117.664)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(156.823 88.055)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(156.823 97.308)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(156.823 107.486)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(156.823 117.664)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(166.076 88.055)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(166.076 97.308)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(166.076 107.486)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(166.076 117.664)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(175.329 88.98)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(184.581 89.906)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(175.329 98.233)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(184.581 99.158)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(175.329 107.486)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(184.581 108.411)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(175.329 117.664)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                        <path data-name="3" transform="translate(184.581 117.664)" style="fill:#ea8a6b" d="M0 0h5.552v5.552H0z"/>
+                    </g>
+                </g>
+            </g>
+            <path data-name="합치기 5" d="M0 6.5h16.655L8.327 18.114zm4.627 0V0h7.4v6.5z" transform="rotate(-90.97 108.84 4.415)" style="fill:#fff;opacity:.3"/>
+        </g>
+    </g>
+</svg>
